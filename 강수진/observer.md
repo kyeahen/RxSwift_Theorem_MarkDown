@@ -183,3 +183,10 @@ public protocol ObservableType : ObservableConvertibleType {
 > 이런식으로 쓰게 되는데, 이렇게 하면 `observer`가 `observable`을 관찰 할 수 있다니!!!!
 
 이게 가능한 이유가 `observable`을 `subscribe`하게 되면 `subscribe` 구현부에서 각각의 `observer`를 생성하고 그 `observer`에 대한 `subscription`을 만들기 때문이었다.
+
+
+
+
+
+
+해당 자료는 **미디엄**에서도 확인할 수 있습니다 - [[RxSwift]Observer](https://medium.com/@rkdthd0403/rxswift-observer-fdc8d2772d6c)
