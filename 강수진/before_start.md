@@ -6,7 +6,7 @@
 
 
 
-####글을 쓰게 된 이유
+#### 글을 쓰게 된 이유
 
 RxSwift 를 공부하고 있다. 맞다. 사진의 얘.
 ![main](https://github.com/sujinnaljin/RxSwift_Theorem_MarkDown/blob/master/%EA%B0%95%EC%88%98%EC%A7%84/images/main.png)
@@ -37,7 +37,7 @@ RxSwift를 공부해본 사람, 아니 ReactiveX에 관심이 있다면 알겠�
 
 
 
-####무엇을 해결하고자 하는가
+#### 무엇을 해결하고자 하는가
 
 이 세 가지 개념을 들으면서 많고 많은 것들이 이해가 안됐지만, 그 중 가장 혼란스러웠던 것은 크게 두가지가 있다. 
 
@@ -173,4 +173,3 @@ subject.subscribe(onNext: { (element) in
 
 
 해당 자료는 **미디엄**에서도 확인할 수 있습니다 - [[RxSwift]들어가기전에](https://medium.com/@rkdthd0403/rxswift-%EC%8B%9C%EC%9E%91-497dfada1e22)
-
