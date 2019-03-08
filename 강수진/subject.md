@@ -439,3 +439,5 @@ https://stackoverflow.com/questions/45141151/what-are-the-differences-between-ob
 https://code.i-harness.com/ko-kr/q/25aa1aa
 
 https://medium.com/@luukgruijs/understanding-rxjs-subjects-339428a1815b
+
+해당 자료는 **미디엄**에서도 확인할 수 있습니다 - [[RxSwift]Subject](https://medium.com/@rkdthd0403/rxswift-subject-99b401e5d2e5)
