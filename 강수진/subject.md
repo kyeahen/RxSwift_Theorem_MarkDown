@@ -4,7 +4,7 @@
 
 ![31](https://github.com/sujinnaljin/RxSwift_Theorem_MarkDown/blob/master/%EA%B0%95%EC%88%98%EC%A7%84/images/31.jpg)
 
- 							다음웹툰 취향저격 그녀. 작가님 적게 일하고 많이버세요.
+다음웹툰 취향저격 그녀. 작가님 적게 일하고 많이버세요.
 
 
 
